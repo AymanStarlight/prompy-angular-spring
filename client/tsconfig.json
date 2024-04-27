@@ -24,7 +24,9 @@
       "dom"
     ],
     "paths": {
-
+      "@assets/*": [
+        "./src/assets/*"
+      ]
     }
   },
   "angularCompilerOptions": {
